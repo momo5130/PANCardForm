@@ -1,0 +1,33 @@
+body{
+    background-color:rgb(255, 239, 213) ;
+}
+div.topField{
+    color:white;
+    background-color: maroon;
+    text-align: center;
+}
+a{
+    color:orange;
+}
+table, th, td {
+    border: 1px solid grey;
+}
+table {
+    border-collapse: collapse;
+}
+em{
+    color:red;
+}
+em.bluetext{
+    color:blue;
+}
+
+input[type="radio"]{
+    font-weight: normal;
+}
+input[type="submit"]{
+    align-content: center;
+}
+#submission {
+    text-align: center;
+    }
